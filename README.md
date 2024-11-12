@@ -69,10 +69,3 @@ The program tracks:
 At the end of the program, it prints the total operations for each sorting algorithm.
 
 ---
-
-## **How to Run**
-
-1. Compile and run the program using any C++ compiler. For example:
-   ```bash
-   g++ sorting_benchmark.cpp -o sorting_benchmark
-   ./sorting_benchmark
